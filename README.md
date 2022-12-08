@@ -1,4 +1,4 @@
-Algorithmic Trading strategies that I am custom coding from scratch using open source execution boiler template for Interactive Brokers.
+Coding algorithmic trading strategies from scratch using open source execution boiler template to implement via Interactive Brokers.
 
 The source code is completely open-sourced [here on GitHub](https://github.com/letianzj/quanttrader). The package is published [here on pypi](https://pypi.org/project/quanttrader/) and is ready to be pip installed. The document is hosted [here on readthedocs](https://quanttrader.readthedocs.io/).
 
