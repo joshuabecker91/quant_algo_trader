@@ -1,4 +1,4 @@
-quant_algo_trader trading execution boiler template for Interactive Brokers that I am using to implement strategies I am custom coding from scratch.
+quant_algo_trader execution boiler template for Interactive Brokers that I am using to implement strategies I am custom coding from scratch.
 
 The source code is completely open-sourced [here on GitHub](https://github.com/letianzj/quanttrader). The package is published [here on pypi](https://pypi.org/project/quanttrader/) and is ready to be pip installed. The document is hosted [here on readthedocs](https://quanttrader.readthedocs.io/).
 
