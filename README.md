@@ -1,8 +1,8 @@
-# quanttrader
-
-Welcome to quanttrader, a pure python-based event-driven backtest and live trading package for quant traders.
+quant_algo_trader boiler template for strategies I am working.
 
 The source code is completely open-sourced [here on GitHub](https://github.com/letianzj/quanttrader). The package is published [here on pypi](https://pypi.org/project/quanttrader/) and is ready to be pip installed. The document is hosted [here on readthedocs](https://quanttrader.readthedocs.io/).
+
+Welcome to quanttrader, a pure python-based event-driven backtest and live trading package for quant traders.
 
 In most cases, a backtest strategy can be directly used for live trade by simply switching to live brokerage. A control window is provided to monitor live trading sessions for each strategy separately and the portfolio as a whole.
 
